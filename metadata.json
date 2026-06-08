@@ -1,0 +1,6 @@
+{
+  "name": "Tâches Quotidiennes",
+  "description": "Une application fluide et moderne pour gérer vos tâches quotidiennes et booster votre productivité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
